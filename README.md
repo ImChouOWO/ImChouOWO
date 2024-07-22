@@ -20,5 +20,5 @@ Currently studying for a master's degree in Deep Learning at National Kaohsiung 
 
 - IG：[imchou._.ouo](https://www.instagram.com/imchou._.ouo/)
 - Gmail：chouisme0904@gmail.com
-- Discord Server：[!server link](https://discord.gg/wdh7DVjQ5s)
+- Discord Server：[! server link](https://discord.gg/wdh7DVjQ5s)
 
