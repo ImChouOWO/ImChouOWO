@@ -8,7 +8,7 @@ Currently studying for a master's degree in Deep Learning at National Kaohsiung 
 ---
 
 # My Skill
-![My Skills](https://skillicons.dev/icons?i=py,cs,js,css&perline=3)
+![My Skills](https://skillicons.dev/icons?i=py,cs,js,css,html&perline=3)
 ---
 ![My Skills](https://skillicons.dev/icons?i=flask,pytorch,selenium&perline=3)
 ---
