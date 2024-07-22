@@ -15,6 +15,13 @@ Currently studying for a master's degree in Deep Learning at National Kaohsiung 
 ![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino,ubuntu&perline=3)
 
 ![My Skills](https://skillicons.dev/icons?i=unity,react,vue&perline=3)
+
+---
+
+![Stat](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImChouOWO&theme=city_lights)
+![Stat](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImChouOWO&theme=city_lights)
+![Stat](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImChouOWO&theme=city_lights)
+
 ---
 # Contact me
 
