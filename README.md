@@ -4,7 +4,9 @@
 **I'm a developer from Taiwan**
 
 Master’s student in Deep Learning at National Kaohsiung University of Science and Technology (Expected graduation: 2025).
--- working as [research and development Engineer] at [Ship And Ocean Industries R&D Center (SOIC)] 2025 Nov. ~ now
+
+- working as research and development Engineer at Ship And Ocean Industries R&D Center (SOIC) 2025 Nov. ~ now
+
 ---
 
 # My Skill
